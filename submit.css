@@ -1,0 +1,9 @@
+
+h2{
+    text-align: center;
+}
+.border{
+    border: solid 1px black;
+    padding: 40px;
+    padding-top: 0;
+}
